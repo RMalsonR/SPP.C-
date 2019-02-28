@@ -1,0 +1,6 @@
+D:\Преподавание\Материалы для второй лекции\SecondLession\SecondLession\bin\Debug\SecondLession.exe.config
+D:\Преподавание\Материалы для второй лекции\SecondLession\SecondLession\bin\Debug\SecondLession.exe
+D:\Преподавание\Материалы для второй лекции\SecondLession\SecondLession\bin\Debug\SecondLession.pdb
+D:\Преподавание\Материалы для второй лекции\SecondLession\SecondLession\obj\Debug\SecondLession.csprojResolveAssemblyReference.cache
+D:\Преподавание\Материалы для второй лекции\SecondLession\SecondLession\obj\Debug\SecondLession.exe
+D:\Преподавание\Материалы для второй лекции\SecondLession\SecondLession\obj\Debug\SecondLession.pdb

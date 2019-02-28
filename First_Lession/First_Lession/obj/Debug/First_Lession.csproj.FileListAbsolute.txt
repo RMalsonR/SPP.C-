@@ -1,0 +1,6 @@
+D:\Преподавание\First_Lession\First_Lession\bin\Debug\First_Lession.exe.config
+D:\Преподавание\First_Lession\First_Lession\bin\Debug\First_Lession.exe
+D:\Преподавание\First_Lession\First_Lession\bin\Debug\First_Lession.pdb
+D:\Преподавание\First_Lession\First_Lession\obj\Debug\First_Lession.csprojResolveAssemblyReference.cache
+D:\Преподавание\First_Lession\First_Lession\obj\Debug\First_Lession.exe
+D:\Преподавание\First_Lession\First_Lession\obj\Debug\First_Lession.pdb
