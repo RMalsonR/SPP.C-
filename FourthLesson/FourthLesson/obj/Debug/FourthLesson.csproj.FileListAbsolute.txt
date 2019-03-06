@@ -1,0 +1,6 @@
+D:\Преподавание\Материалы для четвёртой лекции\FourthLesson\FourthLesson\bin\Debug\FourthLesson.exe.config
+D:\Преподавание\Материалы для четвёртой лекции\FourthLesson\FourthLesson\bin\Debug\FourthLesson.exe
+D:\Преподавание\Материалы для четвёртой лекции\FourthLesson\FourthLesson\bin\Debug\FourthLesson.pdb
+D:\Преподавание\Материалы для четвёртой лекции\FourthLesson\FourthLesson\obj\Debug\FourthLesson.csprojResolveAssemblyReference.cache
+D:\Преподавание\Материалы для четвёртой лекции\FourthLesson\FourthLesson\obj\Debug\FourthLesson.exe
+D:\Преподавание\Материалы для четвёртой лекции\FourthLesson\FourthLesson\obj\Debug\FourthLesson.pdb
