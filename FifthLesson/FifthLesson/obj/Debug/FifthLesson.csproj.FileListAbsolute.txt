@@ -1,0 +1,6 @@
+D:\Преподавание\FifthLesson\FifthLesson\bin\Debug\FifthLesson.exe.config
+D:\Преподавание\FifthLesson\FifthLesson\bin\Debug\FifthLesson.exe
+D:\Преподавание\FifthLesson\FifthLesson\bin\Debug\FifthLesson.pdb
+D:\Преподавание\FifthLesson\FifthLesson\obj\Debug\FifthLesson.csprojResolveAssemblyReference.cache
+D:\Преподавание\FifthLesson\FifthLesson\obj\Debug\FifthLesson.exe
+D:\Преподавание\FifthLesson\FifthLesson\obj\Debug\FifthLesson.pdb
