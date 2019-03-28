@@ -1,0 +1,4 @@
+D:\Преподавание\ConsoleApplication1\Library\bin\Debug\Library.dll
+D:\Преподавание\ConsoleApplication1\Library\bin\Debug\Library.pdb
+D:\Преподавание\ConsoleApplication1\Library\obj\Debug\Library.dll
+D:\Преподавание\ConsoleApplication1\Library\obj\Debug\Library.pdb

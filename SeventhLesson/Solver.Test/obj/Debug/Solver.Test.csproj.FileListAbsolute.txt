@@ -1,0 +1,9 @@
+D:\Преподавание\ConsoleApplication1\Solver.Test\bin\Debug\Solver.Test.dll
+D:\Преподавание\ConsoleApplication1\Solver.Test\bin\Debug\Solver.Test.pdb
+D:\Преподавание\ConsoleApplication1\Solver.Test\bin\Debug\Library.dll
+D:\Преподавание\ConsoleApplication1\Solver.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Преподавание\ConsoleApplication1\Solver.Test\bin\Debug\Library.pdb
+D:\Преподавание\ConsoleApplication1\Solver.Test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Преподавание\ConsoleApplication1\Solver.Test\obj\Debug\Solver.Test.csprojResolveAssemblyReference.cache
+D:\Преподавание\ConsoleApplication1\Solver.Test\obj\Debug\Solver.Test.dll
+D:\Преподавание\ConsoleApplication1\Solver.Test\obj\Debug\Solver.Test.pdb
